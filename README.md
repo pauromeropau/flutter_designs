@@ -1,10 +1,8 @@
-# flutter_designs
-
-1. Básico - recomendado por Flutter
-
-2. Intermedio - Con PageViews e imágenes
-
-3. Avanzado - Con blur, grids background y más
+### flutter_designs
+just some flutter designs... 
 
 
+![](https://media.giphy.com/media/gfqnvF93rC32AsPGfI/giphy.gif)
+![](https://media.giphy.com/media/QytOYlgQqVPpc4qWn9/giphy.gif)
 
+ 
